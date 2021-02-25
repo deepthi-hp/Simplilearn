@@ -17,7 +17,7 @@ public class facebook {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		WebDriver driver;
-		System.setProperty("webdriver.chrome.driver","/home/deepthihptecnot/Downloads/chromedriver");
+		System.setProperty("webdriver.chrome.driver","Chromedriver");
 
 		// System.setProperty("webdriver.gecko.driver","/home/deepthihptecnot/Downloads/geckodriver");
 	        driver=new ChromeDriver();
